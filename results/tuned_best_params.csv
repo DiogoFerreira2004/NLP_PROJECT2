@@ -1,0 +1,3 @@
+model,best_params,best_cv_score
+Logistic Regression,"{'clf__C': 10, 'clf__class_weight': 'balanced', 'clf__penalty': 'l2', 'clf__solver': 'lbfgs', 'tfidf__max_features': 10000, 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1)}",0.7804757805378519
+Linear SVM,"{'clf__C': 1, 'clf__class_weight': 'balanced', 'tfidf__max_features': 10000, 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1)}",0.7790396697742065
