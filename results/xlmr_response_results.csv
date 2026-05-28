@@ -1,0 +1,2 @@
+model,input,accuracy,precision,recall,macro_f1
+xlm-roberta-base,response,0.7617148554336989,0.7594507205301186,0.7612906338192373,0.7600317532456482
